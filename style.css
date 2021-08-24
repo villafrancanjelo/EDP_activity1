@@ -34,5 +34,42 @@
 	font-family: cursive;
 	margin-top: 50px;
 	margin-right: 150px
+
+.table{
+	margin-top: 20px;
+	width: 800px;
+	height: 500px;
+	background-color: rgb(238,238,238,238);
+	padding-left: 60px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-left: 270px;
+	position:absolute;
+	border: 4px solid black;
+}
+.table img{
+		border-radius: 5px;
+		margin-top: 15px;
+		width: 180px;
+		height: 180px;
+		
+}
+
+.top{
+	margin-left: 270px;
+	margin-top: 20px
+}
+
+.title{
+	font-size: 30px;
+	padding-top: 10px;
+	color: white;
+	font-family: fantasy;
+	height: 50px;
+	width: 350px;
+	text-align: center;
+	text-shadow: 1px 3px 1px gray;
+	background-color: black;
+
 }
 
